@@ -1,0 +1,7 @@
+h2=d.title
+p
+  a(class='button', href='/documents/' + d.id + '/edit') Edit
+  a(class='button destroy', href='/documents/' + d.id) Delete
+  a(href='/documents', class='button')
+    &larr; All Documents
+p=d.data
