@@ -4,26 +4,26 @@ Nodepad
 A simple web application created using these technologies
 ---------------------------------------------------------
 
-- Node.js
+- **Node.js**
 
   Evented serverside technology using javascript
 
-- Express 
+- **Express**
 
   Web application framework for Node
 
-- Expresso
+- **Expresso**
 
   Test framework for Node and Express
 
-- MongoDb
+- **MongoDb**
   
   Document oriented database
 
-- JADE
+- **JADE**
 
   Templating engine for Express similar to HAML
 
-- LESS
+- **LESS**
   
   CSS preprocessor
